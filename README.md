@@ -30,10 +30,10 @@
 
 ###
 
-<img src="https://www.codewars.com/users/Sedutor/badges/small" target="_blank" />
 
 
-### <a href="https://stepik.org/users/512915367/certificates?preview=true">Certificates 🎓</a>
+
+
 
 <!--
 **SedutorPretto/SedutorPretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,4 +48,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### <a href="https://stepik.org/users/512915367/certificates?preview=true">Certificates 🎓</a>
+<img src="https://www.codewars.com/users/Sedutor/badges/small" target="_blank" />
 -->
